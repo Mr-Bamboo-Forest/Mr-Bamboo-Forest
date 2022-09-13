@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mr-Bamboo-Forest
+- 👀 I’m interested in coding and learning coding languages.
+- 🌱 I’m currently learning.
+- 💞️ I’m looking to collaborate on nothing really. 
+- 📫 How to reach me through Discord on - Bamboo Forest#6595
