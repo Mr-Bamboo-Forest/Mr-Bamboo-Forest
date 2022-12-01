@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on nothing really. 
 - 📫 Reach me through Discord on - ***Bamboo Forest#6595***
-- ▶️ My YouTube channel is ***https://www.youtube.com/c/MrTechnoMoon***
+- ▶️ My YouTube channel is ***https://www.youtube.com/@MrTechnoMoon***
