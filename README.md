@@ -9,8 +9,10 @@
 - 📫 Reach me through Discord on - ***Bamboo Forest#6595***
 - ▶️ My YouTube channel is ***https://www.youtube.com/@MrTechnoMoon***
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mr-Bamboo-Forest&theme=dark)]
+# Some Random Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bamboo-Forest&layout=compact&theme=vision-friendly-dark)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mr-Bamboo-Forest&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Bamboo-Forest&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bamboo-Forest&layout=compact&theme=vision-friendly-dark)
