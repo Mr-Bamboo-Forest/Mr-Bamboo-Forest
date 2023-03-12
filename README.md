@@ -8,3 +8,5 @@
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 Reach me through Discord on - ***Bamboo Forest#6595***
 - ▶️ My YouTube channel is ***https://www.youtube.com/@MrTechnoMoon***
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mr-Bamboo-Forest&theme=dark)](https://git.io/streak-stats)
