@@ -16,6 +16,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Bamboo-Forest&theme=dark&count_private=true&hide=contribs&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bamboo-Forest&count_private=true&layout=compact&theme=vision-friendly-dark&langs_count=10)
-
-![image](https://user-images.githubusercontent.com/113477194/224664848-f801106e-9fb7-4f13-b743-7fbefc42e16a.png)
-
