@@ -13,6 +13,6 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mr-Bamboo-Forest&theme=dark&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Bamboo-Forest&theme=dark&count_private=true&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Bamboo-Forest&theme=dark&count_private=true&hide=contribs&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bamboo-Forest&layout=compact&theme=vision-friendly-dark&count_private=true&langs_count=10)
