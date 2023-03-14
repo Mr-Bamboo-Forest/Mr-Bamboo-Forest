@@ -1,6 +1,8 @@
 # I’m Mr-Bamboo-Forest 
 
-## I use GitHub to back up code 
+## AKA Bamboo Forest
+
+### I use GitHub to back up code 
 
 - 👤 I am short, very short.
 - 👀 I’m interested in coding and learning coding languages.
