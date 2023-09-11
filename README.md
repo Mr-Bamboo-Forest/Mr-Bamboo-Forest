@@ -14,6 +14,8 @@
 
 # Some Random Stats
 
+![](https://komarev.com/ghpvc/?username=Mr-Bamboo-Forest&label=MY+PROFILE+VIEWS&color=blue)
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mr-Bamboo-Forest&count_private=true&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Bamboo-Forest&theme=dark&count_private=true&hide=contribs&show_icons=true)
