@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 Reach me through Discord on - ***bamboo_forest***
 - ▶️ My YouTube channel is ***https://www.youtube.com/@-BambooForest-***
-- 😄 My pronouns are he/him. 
+- 😄 My pronouns are he/him.  
 
 # Some Random Stats
 
