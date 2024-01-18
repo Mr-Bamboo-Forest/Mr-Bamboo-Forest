@@ -2,9 +2,6 @@
 
 ## AKA Bamboo Forest
 
-### I use GitHub to back up code 
-
-- 👤 I am really short.
 - 👀 I’m interested in coding and learning coding languages.
 - 🌱 I’m currently learning on how to code with python.
 - 💞️ I’m looking to collaborate on anything. 
