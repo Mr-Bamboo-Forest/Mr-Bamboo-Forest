@@ -1,6 +1,6 @@
 # I’m Mr-Bamboo-Forest  
 
-## AKA Bamboo Forest
+## You can basically call me Bamboo Forest
 
 - 👀 I’m interested in coding and learning coding languages.
 - 🌱 I’m currently learning on how to code with python.
