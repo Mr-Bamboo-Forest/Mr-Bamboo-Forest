@@ -1,4 +1,4 @@
-# Hiiii I’m Mr-Bamboo-Forest  
+# Hiii I’m Mr-Bamboo-Forest  
 
 ## You can basically call me Bamboo Forest
 
