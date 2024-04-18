@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning on how to code with python.
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 Reach me through Discord on - ***bamboo_forest***
-- ▶️ My YouTube channel is ***[Bamboo Forest](https://www.youtube.com/@-BambooForest-)*** 
+- ▶️ My YouTube channel is ***[Bamboo Forest](https://www.youtube.com/@-BambooForest-)***
+- ⚽ My favourite football team is FC Barcelona! 💙❤️ 
 
 # Some Random Stats
 
