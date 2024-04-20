@@ -9,7 +9,7 @@
 - ▶️ My YouTube channel is ***[Bamboo Forest](https://www.youtube.com/@-BambooForest-)***
 - ⚽ My favourite football team is FC Barcelona! 💙❤️ 
 
-# Some Random Stats
+# Some Random Stats 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mr-Bamboo-Forest&label=MY+PROFILE+VIEWS&color=blue)
 
