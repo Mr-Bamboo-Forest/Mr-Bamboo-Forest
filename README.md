@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 Reach me through Discord on - ***bamboo_forest***. 
 - ▶️ My YouTube channel is ***[Bamboo Forest](https://www.youtube.com/@-BambooForest-)***.
-- ⚽ My favourite football team is FC Barcelona! 💙❤️.
+- ⚽ My favourite football team is FC Barcelona! 💙❤️. 
 
 # Some Random Stats 
 
