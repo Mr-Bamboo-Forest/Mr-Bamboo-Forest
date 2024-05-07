@@ -2,6 +2,8 @@
 
 ## You can basically call me Bamboo Forest
 
+If you don't see "Remember to ⭐ and 👀 the repository. It boosts my ego." then remember to  ⭐ and 👀 the repository anyway😁
+
 - 👀 I’m interested in coding and learning coding languages.
 - 🌱 I’m currently learning on how to code with python.
 - 💞️ I’m looking to collaborate on anything. 
