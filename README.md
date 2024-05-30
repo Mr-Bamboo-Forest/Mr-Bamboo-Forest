@@ -1,6 +1,6 @@
 # Hiiiii I’m Mr-Bamboo-Forest  
 
-## You can basically call me Bamboo Forest
+## You can call me Bamboo Forest
 
 If you don't see "Remember to ⭐ and 👀 the repository. It boosts my ego." then remember to  ⭐ and 👀 the repository anyway😁
 
