@@ -7,12 +7,7 @@ If you don't see "Remember to ⭐ and 👀 the repository. It boosts my ego." th
 - 👀 I’m interested in coding and learning coding languages.
 - 🌱 I’m currently learning on how to code with python.
 - 💞️ I’m looking to collaborate on anything. 
-- 📫 Reach me through Discord on - ***bamboo_forest***. 
-- ▶️ My YouTube channel is ***[Bamboo Forest](https://www.youtube.com/@-BambooForest-)***. 
-- ⚽ My favourite football team is FC Barcelona! 💙❤️. 
-
-- 🐍 print(chr(sum(range(ord(min(str(not())))))))
-
+- 📫 Reach me through Discord on - ***bamboo_forest***.
 
 # Some Random Stats 
 
